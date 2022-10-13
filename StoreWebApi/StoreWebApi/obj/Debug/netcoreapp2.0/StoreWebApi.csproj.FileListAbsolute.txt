@@ -1,0 +1,15 @@
+C:\Users\PC_LEONEL\Desktop\Store-master\StoreWebApi\StoreWebApi\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\PC_LEONEL\Desktop\Store-master\StoreWebApi\StoreWebApi\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\PC_LEONEL\Desktop\Store-master\StoreWebApi\StoreWebApi\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\PC_LEONEL\Desktop\Store-master\StoreWebApi\StoreWebApi\bin\Debug\netcoreapp2.0\StoreWebApi.deps.json
+C:\Users\PC_LEONEL\Desktop\Store-master\StoreWebApi\StoreWebApi\bin\Debug\netcoreapp2.0\StoreWebApi.runtimeconfig.json
+C:\Users\PC_LEONEL\Desktop\Store-master\StoreWebApi\StoreWebApi\bin\Debug\netcoreapp2.0\StoreWebApi.runtimeconfig.dev.json
+C:\Users\PC_LEONEL\Desktop\Store-master\StoreWebApi\StoreWebApi\bin\Debug\netcoreapp2.0\StoreWebApi.dll
+C:\Users\PC_LEONEL\Desktop\Store-master\StoreWebApi\StoreWebApi\bin\Debug\netcoreapp2.0\StoreWebApi.pdb
+C:\Users\PC_LEONEL\Desktop\Store-master\StoreWebApi\StoreWebApi\obj\Debug\netcoreapp2.0\StoreWebApi.csprojAssemblyReference.cache
+C:\Users\PC_LEONEL\Desktop\Store-master\StoreWebApi\StoreWebApi\obj\Debug\netcoreapp2.0\StoreWebApi.AssemblyInfoInputs.cache
+C:\Users\PC_LEONEL\Desktop\Store-master\StoreWebApi\StoreWebApi\obj\Debug\netcoreapp2.0\StoreWebApi.AssemblyInfo.cs
+C:\Users\PC_LEONEL\Desktop\Store-master\StoreWebApi\StoreWebApi\obj\Debug\netcoreapp2.0\StoreWebApi.csproj.CoreCompileInputs.cache
+C:\Users\PC_LEONEL\Desktop\Store-master\StoreWebApi\StoreWebApi\obj\Debug\netcoreapp2.0\StoreWebApi.dll
+C:\Users\PC_LEONEL\Desktop\Store-master\StoreWebApi\StoreWebApi\obj\Debug\netcoreapp2.0\StoreWebApi.pdb
+C:\Users\PC_LEONEL\Desktop\Store-master\StoreWebApi\StoreWebApi\obj\Debug\netcoreapp2.0\StoreWebApi.genruntimeconfig.cache
